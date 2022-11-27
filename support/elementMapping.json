@@ -1,0 +1,24 @@
+{
+  "validFirstName": "jane",
+  "validUsername": "doejj2",
+  "validLastName": "doe",
+  "password": "123456Aa*",
+  "switchUser": "activity",
+  "userId": "c4f6c088-f91b-494e-b7f0-a08f48df3180",
+  "oneCharacterFirstName": "j",
+  "fiftyOneCharacterFirstName": "janejanejanejanejanejanejanejanejanejanejanejan",
+  "alphaNumericFirstName": "jane1",
+  "oneCharacterLastName": "d",
+  "fiftyOneCharacterLastName": "doedoedoedoedoedoedoedoedoedoedoedoedoedoedoedoedoe",
+  "alphaNumericLastName": "doe1",
+  "alphaOnlyUsername": "doejj",
+  "emptyFirstName": "",
+  "emptyLastName": "",
+  "emptyUsername": "",
+  "threeCharacterUsername": "doe",
+  "thirteenCharacterUsername": "doedoedoedoed",
+  "newValidFirstName": "busra",
+  "newValidLastName": "taltekin",
+  "newValidUsername": "busra01"
+
+}
