@@ -1,5 +1,4 @@
 
-const elementMapping = require ("../elementMapping.json")
 const {expect} = require("chai");
 
 
