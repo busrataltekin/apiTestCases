@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js --retry 2 --require /features/**/*.feature --require ./stepDefinitions/**/*.js --require config.js",
-    "allTest":  "cucumber-js --retry 3 --require /features/**/*.feature --require ./stepDefinitions/common_steps.js --require config.js",
-    "createUser":  "cucumber-js --retry 2 --require /features/**/*.feature --require ./stepDefinitions/common_steps.js --require config.js",
-    "getUserList":  "cucumber-js --retry 3 --require /features/* --require ./stepDefinitions/**/*.js --require config.js",
-    "deleteUserList":  "cucumber-js --retry 3 --require /features/* --require ./stepDefinitions/**/*.js --require config.js",
-    "getUserById":  "cucumber-js --retry 2 --require /features/* --require ./stepDefinitions/**/*.js --require config.js",
-    "switchUser":  "cucumber-js --retry 2 --require /features/* --require ./stepDefinitions/**/*.js --require config.js"
+    "createUser":  "cucumber-js --retry 2 --require /features/**/*.feature --require ./stepDefinitions/common_steps.js --require config.js --tags '@createUser'",
+    "getUserList":  "cucumber-js --retry 3 --require /features/* --require ./stepDefinitions/**/*.js --require config.js --tags '@getUserList'",
+    "deleteUserList":  "cucumber-js --retry 3 --require /features/* --require ./stepDefinitions/**/*.js --require config.js --tags '@deleteUserList'",
+    "getUserById":  "cucumber-js --retry 2 --require /features/* --require ./stepDefinitions/**/*.js --require config.js --tags '@getUserById'",
+    "switchUser":  "cucumber-js --retry 2 --require /features/* --require ./stepDefinitions/**/*.js --require config.js --tags '@swithchUser'",
+    "updateUser":  "cucumber-js --retry 2 --require /features/* --require ./stepDefinitions/**/*.js --require config.js --tags '@updateUser'"
+
 
 
   },
