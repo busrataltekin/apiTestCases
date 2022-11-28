@@ -19,6 +19,9 @@
   "thirteenCharacterUsername": "doedoedoedoed",
   "newValidFirstName": "busra",
   "newValidLastName": "taltekin",
-  "newValidUsername": "busra01"
-
+  "newValidUsername": "busra01",
+  "twoCharactersFirstName": "ja",
+  "twoCharactersLastName": "do",
+  "fiftyCharactersFirstName": "janejanejanejanejanejanejanejanejanejanejaneja",
+  "fiftyCharactersLastName": "doedoedoedoedoedoedoedoedoedoedoedoedoedoedoedoedo"
 }
