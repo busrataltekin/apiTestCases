@@ -8,7 +8,7 @@
       Scenario: Busra should be able to delete a user
 
         When Busra sends the delete request
-        Then Busra should not see user
+        Then Busra should not see user after deleting
 
         Scenario: Busra should get 204 as status code after making delete request
 
