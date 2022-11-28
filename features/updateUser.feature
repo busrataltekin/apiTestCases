@@ -1,4 +1,4 @@
-
+@updateUser
 
   Feature: To update user information
 
