@@ -64,8 +64,8 @@
       Examples:
 
         |firstName          |lastName                    |
-        |"newValidLastName" |"123"                       |
-        |"newValidLastName" |"j"                         |
+        |"newValidLastName" |"numericName"               |
+        |"newValidLastName" |"oneCharacterName"          |
         |"newValidLastName" |"fiftyOneCharacterLastName" |
         |"newValidLastName" |"emptyLastName"             |
 
@@ -79,8 +79,8 @@
         Examples:
 
           |firstName                     |lastName            |
-          |"123"                         |"newValidLastName"  |
-          |"j"                           |"newValidLastName"  |
+          |"numericName"                 |"newValidLastName"  |
+          |"oneCharacterName"            |"newValidLastName"  |
           |"fiftyOneCharacterFirstName"  |"newValidLastName"  |
           |"emptyFirstName"              |"newValidLastName"  |
 
@@ -94,8 +94,8 @@
       Examples:
 
         |firstName            |lastName                     |
-        |"newValidFirstName"  |"123"                        |
-        |"newValidFirstName"  |"j"                          |
+        |"newValidFirstName"  |"numericName"                |
+        |"newValidFirstName"  |"oneCharacterName"           |
         |"newValidFirstName"  |"fiftyOneCharacterLastName"  |
         |"newValidFirstName"  |"emptyLastName"              |
 
