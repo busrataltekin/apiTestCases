@@ -23,5 +23,7 @@
   "twoCharactersFirstName": "ja",
   "twoCharactersLastName": "do",
   "fiftyCharactersFirstName": "janejanejanejanejanejanejanejanejanejanejaneja",
-  "fiftyCharactersLastName": "doedoedoedoedoedoedoedoedoedoedoedoedoedoedoedoedo"
+  "fiftyCharactersLastName": "doedoedoedoedoedoedoedoedoedoedoedoedoedoedoedoedo",
+  "numericName": "123",
+  "oneCharacterName": "j"
 }
